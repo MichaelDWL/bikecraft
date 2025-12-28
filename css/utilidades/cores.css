@@ -1,0 +1,19 @@
+:root {
+  --cor-0: #ffffff;
+  --cor-10: #2e2e2e;
+  --cor-11: #111111;
+  --cor-12: #000000;
+  --text-p: #b2b2b2;
+  --contraste-yellow: #ffbb30;
+}
+
+.cor-p1 {
+  color: #ffbb30;
+}
+.cor-0 {
+  color: #ffffff;
+}
+
+.cor-1 {
+  color: #b2b2b2;
+}
