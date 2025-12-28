@@ -4,3 +4,6 @@
 @import "./utilidades/componentes.css";
 @import "./utilidades/cores.css";
 @import "./utilidades/tipografia.css";
+
+/* Bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
