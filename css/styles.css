@@ -13,10 +13,15 @@
 @import "./utilidades/componentes.css";
 @import "./utilidades/cores.css";
 @import "./utilidades/tipografia.css";
+@import "./utilidades/formulario.css";
 
 /* Bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
 @import "./bicicletas/bicicletas.css";
+
+/* Contato */
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
 
 /* Bicicleta */
 @import "./bicicleta/bicicleta.css";
