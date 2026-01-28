@@ -87,8 +87,7 @@
 }
 
 .titulo {
-  background: url("../../img/dec/bottom-right.svg") no-repeat top 20px right
-    20px;
+  background: url("../../img/dec/top-right.svg") no-repeat top right 20px;
 }
 
 .titulo p {

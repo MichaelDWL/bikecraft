@@ -1,7 +1,8 @@
 .bicicletas-lista {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 120px;
 }
+
 .bicicletas-lista h2 {
   margin-bottom: 40px;
 }
@@ -61,7 +62,6 @@
   .bicicletas-lista {
     padding-bottom: 60px;
   }
-
   .bicicletas-lista ul {
     gap: 20px;
   }

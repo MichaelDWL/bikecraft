@@ -9,16 +9,16 @@
   gap: 40px;
 }
 
-.tecnologia-conteudo {
-  padding-top: 160px;
-  padding-bottom: 160px;
-}
-
 .tecnologia-imagem img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   object-position: left;
+}
+
+.tecnologia-conteudo {
+  padding-top: 160px;
+  padding-bottom: 160px;
 }
 
 .tecnologia-conteudo > span {
@@ -29,7 +29,7 @@
 .tecnologia-conteudo h2 {
   margin-bottom: 32px;
 }
-/* ">" ta apontando que é o p que é filho direto da div .tecnologia-conteudo */
+
 .tecnologia-conteudo > p {
   margin-bottom: 20px;
 }
@@ -60,14 +60,13 @@
   .tecnologia {
     grid-template-columns: 1fr;
   }
-  .tecnologia-imagem {
-    display: none;
-  }
   .tecnologia-conteudo {
     padding-top: 60px;
     padding-bottom: 60px;
   }
-
+  .tecnologia-imagem {
+    display: none;
+  }
   .tecnologia a {
     margin-bottom: 60px;
   }

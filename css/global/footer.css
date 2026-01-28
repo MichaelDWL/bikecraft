@@ -15,8 +15,9 @@
 }
 
 .footer-contato ul {
-  margin-bottom: 32;
+  margin-bottom: 32px;
 }
+
 .footer-contato li:nth-child(even):after {
   content: "";
   display: block;
@@ -56,9 +57,9 @@
 @media (max-width: 600px) {
   .footer {
     grid-template-columns: 1fr;
-    gap: 60;
+    gap: 60px;
   }
   .footer-copy {
-    margin: 0px;
+    margin-top: 0px;
   }
 }
